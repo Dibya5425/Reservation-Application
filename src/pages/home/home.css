@@ -1,0 +1,27 @@
+.homeContainer{
+    margin-top: 35px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    overflow-x: hidden;
+  }
+
+.homeTitle{
+  width: 1024px;
+  font-size: 20px;
+}
+.homeFeatured{
+  
+  width: 1024px;
+  font-size: 20px;
+  margin-bottom: 0%;
+}
+.homeFeaturedDec{
+  width: 1024px;
+  font-size: 15px;
+  margin-top: 0%;
+  margin-bottom: 0px; 
+  font-family:'Times New Roman', Times, serif;
+  color: rgb(121, 119, 119); 
+}
